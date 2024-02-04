@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philip Shen</h1>
-<h3 align="center">I am a software developer based in Hsinchu City, Taiwan. I enjoy coding open-source projects with Python.</h3>
+<h3 align="center">I am a software developer from Taiwan<img src="[https://emojiguide.com/flags/flag-taiwan/]" alt="taiwan-flag" width="10" height="10"/>. I enjoy coding open-source projects with Python.</h3>
 
 - 🌱 I’m currently learning **Mechanism Learning, PyTorch, OPENCV and AI related App Toolkits.**
 
